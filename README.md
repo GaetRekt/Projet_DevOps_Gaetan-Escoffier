@@ -2,7 +2,7 @@
 
 # Devops Project
 
-Project composed of tree applications, deployable with jenkins
+Project composed of three applications, deployable with jenkins
 
 
 # Description
