@@ -3,6 +3,7 @@
 # Devops Project
 
 * Project composed of three applications, deployable with jenkins
+* No useless files , for being light as possible
 
 
 # Description
